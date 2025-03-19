@@ -1,0 +1,5 @@
+The year with the maximum ACE index: 1983Year: 1983
+ACE: 17
+Tropical Storms: 4
+Hurricanes: 3
+Major Hurricanes: 1
